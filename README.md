@@ -4,8 +4,7 @@
 ### :man_technologist: master developer: Wion M. Quintela
 other members:
 Gabriel Eli B. Mañacap,
-David Charles F. De Guzman,
-Andrei I. Zantua
+David Charles F. De Guzman
 
 <!--
 **stemtaskmanagement/stemtaskmanagement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
